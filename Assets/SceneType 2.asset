@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40d0eadbffe59b24fa810afb015a8bf5, type: 3}
+  m_Name: SceneType 2
+  m_EditorClassIdentifier: 
+  finishMaterial: {fileID: 2100000, guid: 525e1174990cd1d40b66b0c77519dcdc, type: 2}
+  safeMaterial: {fileID: 2100000, guid: 3a802f978a7cdf14280f1952ae49f96d, type: 2}
+  unsafeMaterial: {fileID: 2100000, guid: 4fff8bf5039deed428c0eebe60e770e0, type: 2}
+  obstacleType: {fileID: 1033941883887439971, guid: 99e26c94b59ea6446ab2abd5b7740396, type: 3}
+  winObstacle: {fileID: 3293644397374515874, guid: de014377afc97fb458185f5869ca0bd9, type: 3}
+  obstacleModel:
+  - {fileID: 4083092216702661192, guid: 4090eb26e9a6243499e279e647626f17, type: 3}
+  - {fileID: 225655592731744939, guid: d75157de4e152e94ebe7de9269282390, type: 3}
+  - {fileID: 2485192568765388156, guid: 90228dd910939c444b7850a039c6dcec, type: 3}
+  - {fileID: 6320859594895252874, guid: 23d3fdaf8929ba6469884ec590fdcc44, type: 3}
+  - {fileID: 1033941883887439971, guid: 99e26c94b59ea6446ab2abd5b7740396, type: 3}
